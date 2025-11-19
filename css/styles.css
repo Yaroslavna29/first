@@ -27,6 +27,10 @@ font-style: poppins;
 font-family: poppins, sans-serif;
 }
 
+h1,h2,h3,h4,h5,h6,p{
+    margin-top: 0;
+}
+
 :root{
     --color-brand:#819B57;
     --color-white: #FAF4EA;
